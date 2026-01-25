@@ -1,27 +1,37 @@
-# 💫 About Me:
-Hi, I’m Dharshan V. I’m a Full Stack Developer who enjoys building things that actually work and solve real problems. I like learning by getting my hands dirty—experimenting, fixing mistakes, and improving step by step. Most of my work revolves around Python and web development, and I’m gradually exploring AI and cloud technologies. I care about writing clean code, understanding how systems work end to end, and growing through real-world projects and teamwork.
+![👋 Hi, my name is Dharshan V](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Dharshan V
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.dha.rshh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharshanvreddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshan.vreddy2819@gmail.com) 
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://github.com/https://github.com/Dharsh606" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dharshanvreddy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/https://www.instagram.com/_.dha.rshh._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="dharshan.vreddy2819@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dharsh606&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dharsh606&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh606&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dharsh606&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**<h3 align="left">Rapid Fire</h3>**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📂 Portfolio: **<a href="https://dharshanvportfolio.netlify.app/" target="_blank">https://dharshanvportfolio.netlify.app/</a>**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dharsh606&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ **<h3 align="left">Skills</h3>**
 
----
-[![](https://visitcount.itsvg.in/api?id=Dharsh606&icon=0&color=0)](https://visitcount.itsvg.in)
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="HTMX" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Nextjs" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Androidstudio" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" style="margin-right: 8px"></div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dharsh606&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Dharsh606&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharsh606&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dharsh606&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
+
